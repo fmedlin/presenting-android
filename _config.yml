@@ -1,0 +1,26 @@
+title: Presenting Android
+description: Presenter First for Android
+
+url: http://fmedlin.github.com/presenting-android
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+
+social:
+   github: fmedlin
+   twitter: fmedlin
+#   facebook: brianmaierjr
+   email: fred@medl.in
+
+#google_analytics: "UA-58263416-1"
