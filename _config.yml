@@ -1,13 +1,12 @@
 title: Presenting Android
 description: Presenter First for Android
 
-url: http://fmedlin.github.com/presenting-android
+url: http://fmedlin.github.io/presenting-android
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
-highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
