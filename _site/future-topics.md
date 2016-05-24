@@ -1,10 +1,10 @@
 [ ] What is Presenter First?
-[ ] Writing Presenter Tests
+[ ] Writing Presenter Tests (viking project)
+[ ] Writing Model Tests (viking project - random quote/name)
+[ ] Network tests with Retrofit (viking project)
+[ ] Writing View Tests (viking project - refresh button)
+[ ] Robolectric (viking project)
 [ ] Presenters are stateless
-[ ] Robolectric
-[ ] Writing Model Tests
-[ ] Writing View Tests
-[ ] Network tests with Retrofit
 [ ] Databases and Loaders
 [ ] Comparisons to alternative MVP and MVC architectures
 [ ] Forms and validation
@@ -19,3 +19,4 @@
 [ ] How to introduce testing into a project without tests
 [ ] How to introduce PF into an existing project
 [ ] Switching the event bus
+[ ] MVP triad for sliding drawer
