@@ -2,7 +2,7 @@ title: Presenting Android
 description: Presenter First for Android
 
 url: http://fmedlin.github.io/presenting-android
-baseurl: ""
+baseurl: '/presenting-android'
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -19,7 +19,6 @@ navigation:
 social:
    github: fmedlin
    twitter: fmedlin
-#   facebook: brianmaierjr
    email: fred@medl.in
 
 #google_analytics: "UA-58263416-1"
